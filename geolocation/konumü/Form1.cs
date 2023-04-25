@@ -16,7 +16,6 @@ namespace konumü
 {
     public partial class Form1 : Form
     {
-        bool durum;
         public Form1()
         {
             Control.CheckForIllegalCrossThreadCalls = false;
