@@ -1,0 +1,11 @@
+F:\Users\asuso\source\repos\konumü\konumü\obj\Debug\konumü.csproj.AssemblyReference.cache
+F:\Users\asuso\source\repos\konumü\konumü\obj\Debug\konumü.csproj.SuggestedBindingRedirects.cache
+F:\Users\asuso\source\repos\konumü\konumü\obj\Debug\konumü.Form1.resources
+F:\Users\asuso\source\repos\konumü\konumü\obj\Debug\konumü.Properties.Resources.resources
+F:\Users\asuso\source\repos\konumü\konumü\obj\Debug\konumü.csproj.GenerateResource.cache
+F:\Users\asuso\source\repos\konumü\konumü\obj\Debug\konumü.csproj.CoreCompileInputs.cache
+F:\Users\asuso\source\repos\konumü\konumü\bin\Debug\konumü.exe.config
+F:\Users\asuso\source\repos\konumü\konumü\bin\Debug\konumü.exe
+F:\Users\asuso\source\repos\konumü\konumü\bin\Debug\konumü.pdb
+F:\Users\asuso\source\repos\konumü\konumü\obj\Debug\konumü.exe
+F:\Users\asuso\source\repos\konumü\konumü\obj\Debug\konumü.pdb
